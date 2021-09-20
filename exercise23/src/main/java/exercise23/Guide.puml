@@ -1,0 +1,6 @@
+@startuml
+
+class solution23{
+  Is the car silent when you turn the key?
+}
+@enduml
